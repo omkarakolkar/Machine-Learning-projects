@@ -24,8 +24,6 @@ This project applies a simple yet effective machine learning approach — **logi
 - Train a **Logistic Regression** model
 - Evaluate with:
   - Accuracy score
-  - Confusion matrix
-  - Classification report
 
 ---
 
@@ -34,6 +32,6 @@ This project applies a simple yet effective machine learning approach — **logi
 - Python 3
 - NumPy & Pandas
 - scikit-learn
-- Matplotlib / Seaborn (optional for plots)
+- Matplotlib / Seaborn
 
 ---
