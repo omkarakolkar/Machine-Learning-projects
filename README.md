@@ -14,8 +14,12 @@ Welcome! 👋 This repository is a collection of small machine learning projects
 ### 2.House price prediction
 - **Goal**: Predict house prices based on various housing features like number of rooms, location, area, etc. 
 - **Tech**: XGBRegressor, Mean Absolute Error (MAE), R2 score 
-- **Dataset**: Boston data set (http://lib.stat.cmu.edu/datasets/boston)
+- **Dataset**: [Boston data set](http://lib.stat.cmu.edu/datasets/boston)
 
+### 3. Fake News Detection
+- **Goal:** Classify news articles as real or fake based on their title, source domain, and social media engagement (tweet count).
+- **Tech:** Logistic Regression, TF-IDF Vectorization, OneHot Encoding, Stemming (NLTK), StandardScaler
+- **Dataset** [FakeNewsNet dataset from Kaggle](https://www.kaggle.com/datasets/algord/fake-news)
 ---
 
 ## 🚧 In Progress
